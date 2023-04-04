@@ -4,7 +4,7 @@ This task requires you to cover your [solution](https://github.com/mate-academy/
 Please copy the code from the previous task into the `src/main/java/core/basesyntax` folder.
 ### Add tests for your services
 Create test classes and tests for checking the work of each of your services. 
-Use JUnit4 library (the dependency is already in `pom.xml`).
+Use JUnit5 library (the dependency is already in `pom.xml`).
 
 Your code coverage should not be less than 80% covered lines.
 
